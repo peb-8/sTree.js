@@ -50,9 +50,14 @@ root = new sTreeNode(camera.viewport, on_creation, on_grow, 'species', 0, [], 'A
 
 ```
 
+### Screenshots:
+
+Titles and versions have been blurred for privacy reason.
+![Image of sample](https://image.ibb.co/cJQNmU/scr1.png)
+
 ### Todo:
 
 * Simplifiy & explain the way to create branches from data
 * Make a bundle of the lib and provide a minified version
-* Add samples (using a fake API to import data)
+* Add samples (using a fake API to import data) and screenshots of results
 * Get rid of pixi.js (implement custom rendering process using Canvas and 2D-transformations)
