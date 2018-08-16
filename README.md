@@ -53,7 +53,7 @@ root = new sTreeNode(camera.viewport, on_creation, on_grow, 'species', 0, [], 'A
 ### Screenshots:
 
 Titles and versions have been blurred for privacy reason.
-![Image of sample](https://image.ibb.co/cJQNmU/scr1.png)
+![Image of sample](https://image.ibb.co/ePmHLp/scr1.png)
 
 ### Todo:
 
