@@ -1,4 +1,4 @@
-# sTree
+# sTree.js | Simple Tree JS
 
 ### Requirements
 
