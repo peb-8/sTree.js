@@ -36,13 +36,13 @@ function on_creation(node) {
 function on_grow(node) {
   
   if( node.type == 'species')
-    st_get_data(api_root + ..., (data)=> { node.create_branche(...); });
+    st_get_data(API_URL + ..., (data)=> { node.create_branche(...); });
     
   else if( node.type == 'race' )
-    st_get_data(api_root + ..., (data)=> { node.create_branche(...); });
+    st_get_data(API_URL + ..., (data)=> { node.create_branche(...); });
     
   else if( node.type == 'individual' )
-    st_get_data(api_root + ..., (data)=> { node.create_branche(...); });
+    st_get_data(API_URL + ..., (data)=> { node.create_branche(...); });
 }
 
 // create the root node (the branches will be created automatically on node triggering)
